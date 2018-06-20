@@ -28,7 +28,7 @@ Namely, go to [Doctrine Connection Settings](https://github.com/doctrine/Doctrin
 
 Install Zfc Components:
 
-    php composer.phar require zf-commons/zfc-user-doctrine-orm
+    php composer.phar require koseduhemak/zfc-user-doctrine-orm
 
 Set up your Modules in `config/application/application.config.php`, something like
 
